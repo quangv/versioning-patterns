@@ -22,9 +22,12 @@
 - ToodleDo
 - Workflowy
 
-## Open-Source
+## Conventions
 
 - Semantic Versioning - https://semver.org/
+- https://calver.org/
+- Major.Minor.Build.Revision - https://docs.microsoft.com/en-us/dotnet/api/system.version?redirectedfrom=MSDN&view=netframework-4.7.2
 
 ## Resources
 - https://en.wikipedia.org/wiki/Software_versioning
+- https://blog.codinghorror.com/whats-in-a-version-number-anyway/
